@@ -12,9 +12,9 @@ const CONFIGDATA = {
 
 
 
-// Author: andyngojs
-// Facebook: http://fb.com/dn279
-// Join us: https://fb.com/groups/dobeeteam.community
+// Tác giả: batai2509
+// Facebook: https://www.facebook.com/BA.tAi.dz.tv
+
 
 
 
